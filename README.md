@@ -10,4 +10,4 @@ Public legal and privacy pages for apps by Terence Wilkie.
 - `/` - index of apps
 - `/hiit-timer/privacy.html` - HIIT Timer privacy policy
 
-Contact for these pages: tryreachme@gmail.com
+Contact: via each app Google Play listing developer email (not published here).
