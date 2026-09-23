@@ -1,13 +1,18 @@
-# app-policies
+# Craftglen (app-policies)
 
-Public legal and privacy pages for apps by Terence Wilkie.
+Public marketing and privacy pages for apps by Craftglen.
 
-- Interim host: GitHub Pages (`https://treedrizzle.github.io/app-policies/`)
-- Later: custom domain planned (see shared-domain plan on the lab box)
+- Live: https://craftglen.com/ (GitHub Pages from this repo, `main` / root)
+- Contact: contact@craftglen.com
 
 ## Layout
 
-- `/` - index of apps
-- `/hiit-timer/privacy.html` - HIIT Timer privacy policy
+- `/` - Craftglen apps hub
+- `/apps/hiit-timer/` - HIIT Timer landing
+- `/apps/hiit-timer/privacy/` - HIIT Timer privacy policy (canonical)
+- `/hiit-timer/` and `/hiit-timer/privacy.html` - redirects to the privacy page
+- `/css/site.css` - shared stylesheet
+- `/assets/apps/hiit-timer/` - app icon assets
+- `PLAY_LISTING_CHECKLIST.md` - short Play Console listing notes (free launch)
 
-Contact: via each app Google Play listing developer email (not published here).
+Package id: `com.craftglen.hiittimer`
